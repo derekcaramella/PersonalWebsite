@@ -1,9 +1,19 @@
 .p1 {
     font-family: "Apple Chancery", cursive;
+    text-align: center;
+    margin-right: 90px;
+    margin-left: 90px;
 }
 
 .h11 {
     font-family: "Brush Script MT";
     font-size: xxx-large;
     text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
