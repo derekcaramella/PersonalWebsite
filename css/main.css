@@ -1,5 +1,5 @@
 .p1 {
-    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-family: New Century Schoolbook;
     text-align: center;
     margin-right: 10%;
     margin-left: 10%;
@@ -7,6 +7,7 @@
 
 .h11 {
     font-family: Snell Roundhand, cursive;
+    font-size: 30px,
     font-size: xxx-large;
     text-align: center;
 }
